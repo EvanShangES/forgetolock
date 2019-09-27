@@ -172,11 +172,11 @@ class DashboardMap extends Component {
 
     //map can't be always updating when dragging polygon or circle
     shouldComponentUpdate(nextProps,nextState) {
-        if(this.state.refresh === true){
-            this.setState({refresh: false});
-            return true;
-        }
-        return false
+        // if(this.state.refresh === true){
+        //     this.setState({refresh: false});
+        //     return true;
+        // }
+        return true;
     }
 
     refreshMap(){

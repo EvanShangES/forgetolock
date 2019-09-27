@@ -19,6 +19,7 @@
     "morgan": "^1.9.1",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
+    "path": "^0.12.7",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.11",
@@ -34,7 +35,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "concurrently \"cd backend && node server.js\" \"react-scripts build\"",
+    "build": "concurrently \"cd backend && node server.js\" \"react-scripts start\"",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "fullstack": "concurrently \"cd backend && node server.js\" \"npm start\""

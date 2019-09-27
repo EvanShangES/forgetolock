@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c313e52-2141-495e-87da-a1018f40511e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.env.development" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" afterPath="$PROJECT_DIR$/backend/server.js" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,17 +63,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".env.development" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".env.development" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.env.development">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -104,8 +106,8 @@
       <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="38" column="42" lean-forward="false" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+            <state relative-caret-position="296">
+              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -143,6 +145,7 @@
       <find>class</find>
       <find>menuTab</find>
       <find>adddress</find>
+      <find>__dir</find>
     </findStrings>
     <replaceStrings>
       <replace>className=</replace>
@@ -172,7 +175,6 @@
         <option value="$PROJECT_DIR$/src/redux/reducers/index.js" />
         <option value="$PROJECT_DIR$/src/redux/reducers/authenticate.js" />
         <option value="$PROJECT_DIR$/src/redux/reducers/errors.js" />
-        <option value="$PROJECT_DIR$/backend/server.js" />
         <option value="$PROJECT_DIR$/src/redux/store.js" />
         <option value="$PROJECT_DIR$/src/components/general/Login.js" />
         <option value="$PROJECT_DIR$/src/actions/authActions.js" />
@@ -197,8 +199,9 @@
         <option value="$PROJECT_DIR$/src/components/layout/NavMenu.js" />
         <option value="$PROJECT_DIR$/src/maps/DashboardMap.js" />
         <option value="$PROJECT_DIR$/backend/config/databases.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.env.development" />
+        <option value="$PROJECT_DIR$/backend/server.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -249,6 +252,66 @@
               <item name="forgetalock" type="b2602c69:ProjectViewProjectNode" />
               <item name="forgetalock" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="forgetalock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forgetalock" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="forgetalock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forgetalock" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="forgetalock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forgetalock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="forgetalock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forgetalock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="forgetalock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forgetalock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="forgetalock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forgetalock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="forms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="forgetalock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forgetalock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="general" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="forgetalock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forgetalock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="forgetalock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forgetalock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="forgetalock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forgetalock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -270,6 +333,7 @@
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/node_modules/eslint" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -331,7 +395,7 @@
       <workItem from="1567293779265" duration="2028000" />
       <workItem from="1567527639157" duration="558000" />
       <workItem from="1568224256258" duration="587000" />
-      <workItem from="1569462887549" duration="40112000" />
+      <workItem from="1569462887549" duration="41039000" />
     </task>
     <task id="LOCAL-00001" summary="Testing for phone GPS">
       <created>1569550982882</created>
@@ -403,11 +467,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569554047793</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Testing for phone GPS">
+      <created>1569554675499</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1569554675499</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182120000" />
+    <option name="totallyTimeSpent" value="183047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -656,32 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/maps/DashboardMap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-960">
-          <caret line="165" column="9" lean-forward="false" selection-start-line="165" selection-start-column="9" selection-end-line="165" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18191">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yarn.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-31713">
@@ -698,26 +743,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.env.development">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maps/DashboardMap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-960">
+          <caret line="165" column="9" lean-forward="false" selection-start-line="165" selection-start-column="9" selection-end-line="165" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/backend/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="38" column="42" lean-forward="false" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        <state relative-caret-position="296">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18191">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env.development">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        <state relative-caret-position="315">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
           <folding />
         </state>
       </provider>

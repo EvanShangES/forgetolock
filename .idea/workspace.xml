@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2c313e52-2141-495e-87da-a1018f40511e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -383,7 +382,7 @@
       <workItem from="1567293779265" duration="2028000" />
       <workItem from="1567527639157" duration="558000" />
       <workItem from="1568224256258" duration="587000" />
-      <workItem from="1569462887549" duration="41756000" />
+      <workItem from="1569462887549" duration="41809000" />
     </task>
     <task id="LOCAL-00001" summary="Testing for phone GPS">
       <created>1569550982882</created>
@@ -494,7 +493,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183764000" />
+    <option name="totallyTimeSpent" value="183817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />

@@ -35,7 +35,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "concurrently \"cd backend && node server.js\" \"react-scripts start\"",
+    "build": "concurrently \"cd backend && node server.js\" \"react-scripts build\"",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "fullstack": "concurrently \"cd backend && node server.js\" \"npm start\""

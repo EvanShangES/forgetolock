@@ -3,5 +3,5 @@ module.exports = {
     // 'url': 'mongodb://localhost/forgoLockLocal',
 
     //For Hosted Usage
-    'url': 'mongodb+srv://evanshang:123asdfgh@forgetalock-beta-zgrc1.mongodb.net/test?retryWrites=true&w=majority'
+    'url': 'mongodb+srv://evanshang:!23Asdfghgi@forgetalock-beta-zgrc1.mongodb.net/test?retryWrites=true&w=majority'
 };
